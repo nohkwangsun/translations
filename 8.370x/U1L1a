@@ -18,38 +18,33 @@ MIT 8.370 양자정보과학 I
 
 ---
 
+네, 이 강의는 4개의 유닛으로 되어있습니다.
+첫번째 유닛은 기초입니다.
+그래서 대부분은 최소한 이것들에 대해 조금은 알고 있을 겁니다.
+회로, 역회로, 양자 상태.
+수학 전공자라면 문제 없겠다. 이것들은 그저 벡터들입니다.
+양자, 우리가 그걸 뭐라고 하죠? 움..
+양자 진화.
+이것들은 그저 행렬 그리고 측정
+그리고 텐서 곱 그리고 양자 이상함.
+양자 역학은 이상합니다.
+그리고 저는 이 강연의 뒷부분에서 그것에 대해 좀더 이야기하려 합니다.
+사실, 우리가 이걸하려면 더 많은 걸 다루어야 합니다.
+그러나 우리는 그것들을 논의하려 합니다.
+그리고 유닛 2 에서는 양자 프로토콜과 알고리즘.
+그리고 우리가 다루려는 것은 텔레포트(순간이동), 인수 분해, Grover 검색.
+그리고 그것들은 거의 이 유닛의 하이라이트입니다.
+유닛 3은 노이즈와 코드입니다.
+정확히 우리가 하려는 것은 양자 오류 정정 코드 및 그 응용 프로그램입니다.
+기초를 다루는 첫번째 파트에서 사실은 양자 노이즈에 대해서는 많이 언급하지 않을 것입니다.
+그래서 우리는 기초로 돌아갈 것입니다.
+우리가 여기쯤 다시 다룰때 양자 노이즈를 더 보태려 합니다.
+왜냐하면 이 부분에 올때까지 그것들은 전혀 필요하지 않기 때문입니다.
+그리고 유닛 4는 양자 계산 모델입니다.
+양자 계산, 그것들의 측정,
+분산 양자 알고리즘 그리고 양자 단열 알고리즘.
+이것들에 대한 다른 질문은 없나요?
+제가 전에 말한 것 처럼,
+각 유닛 마다 두가지의 권고사항(precepts)이 있을 것입니다.
+그리고 처음 두 유닛 후에는 작업(task)들이 있을 것입니다.
 
-OK, so there are four units of this class.
-The first unit is fundamentals.
-So most of you will have at least some of this stuff.
-So circuits, reversible circuits, circuits,
-quantum states.
-OK for the math majors, these are just vectors.
-Quantum, I guess, what did we call it?
-Quantum evolution.
-These are just matrices, and measurement,
-and tensor products, and then quantum weirdness.
-So quantum mechanics is weird.
-And I will talk more about that later in this lecture.
-And we'll actually get to it much more when we get to it.
-But we will discuss that.
-And Unit 2 is quantum protocols and algorithms.
-And what we're going to be doing is teleportation, factoring,
-grover search.
-And those are more or less the highlights of this unit.
-Unit 3 is noise and codes.
-So really what this is about is quantum error correcting
-codes and their applications.
-And the first part, fundamentals,
-were actually not going to tell you much about quantum noise.
-So we're going to go back to the fundamentals
-and add quantum noise when we get here,
-because you don't really need it until we get to this point.
-And the fourth is models of quantum computation.
-Quantum computation, which measurement,
-distributed quantum algorithms, and the quantum adiabatic
-algorithm.
-So any questions about this stuff?
-And as I said before, or as Ike and I said before,
-there are going to be two precepts for each unit.
-And then there's going to be a task after the first two units

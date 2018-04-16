@@ -1,0 +1,55 @@
+MIT 8.370 Qunatum Information Science I
+Unit 1 : Quantum and classical computing fundamentals
+
+Topic: Course topics for the semester
+
+Lecture clip by Prof. Peter Shor
+translated by Kwansun Noh
+
+---
+
+MIT 8.370 양자정보과학 I
+1단원 : 양자 컴퓨팅과 고전 컴퓨팅의 기초
+
+주제 : 한학기 주제
+
+강의 클립 : 피터 쇼어 교수
+강의 번역 : 노 광선
+
+---
+
+
+OK, so there are four units of this class.
+The first unit is fundamentals.
+So most of you will have at least some of this stuff.
+So circuits, reversible circuits, circuits,
+quantum states.
+OK for the math majors, these are just vectors.
+Quantum, I guess, what did we call it?
+Quantum evolution.
+These are just matrices, and measurement,
+and tensor products, and then quantum weirdness.
+So quantum mechanics is weird.
+And I will talk more about that later in this lecture.
+And we'll actually get to it much more when we get to it.
+But we will discuss that.
+And Unit 2 is quantum protocols and algorithms.
+And what we're going to be doing is teleportation, factoring,
+grover search.
+And those are more or less the highlights of this unit.
+Unit 3 is noise and codes.
+So really what this is about is quantum error correcting
+codes and their applications.
+And the first part, fundamentals,
+were actually not going to tell you much about quantum noise.
+So we're going to go back to the fundamentals
+and add quantum noise when we get here,
+because you don't really need it until we get to this point.
+And the fourth is models of quantum computation.
+Quantum computation, which measurement,
+distributed quantum algorithms, and the quantum adiabatic
+algorithm.
+So any questions about this stuff?
+And as I said before, or as Ike and I said before,
+there are going to be two precepts for each unit.
+And then there's going to be a task after the first two units
